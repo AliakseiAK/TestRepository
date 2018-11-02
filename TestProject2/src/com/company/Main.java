@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         int i = 1;
         String s;
+        String ne;
     }
 }
